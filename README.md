@@ -13,3 +13,4 @@ If you will be using n8n, within the `Prompt Model` node will be the prompt itse
 - Under `### TRUSTED DOMAINS ###` will be Microsoft/Outlook domains by default that are generally trusted sources. These can be replaced and/or updated to other domains your organization wants to have as more trusted.
 
 ## Screenshots
+![Workflow](screenshots/workflow.png)
